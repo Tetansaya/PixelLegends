@@ -42,6 +42,7 @@ ul {
     margin-left: 10px;
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s;
+    font-family: 'Press Start 2P', sans-serif;
 }
 
 .nav-button:hover {
@@ -61,6 +62,7 @@ ul {
 }
 
 .pattern-button {
+    
     position: absolute;
     top: 5%;
     right: 5%;
