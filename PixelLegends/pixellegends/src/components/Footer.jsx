@@ -1,7 +1,6 @@
 // Footer.js
 import React, { useState } from 'react';
 import './Estilos.css';
-import heartImage from './pngHearts.png'; // Ruta a la imagen de corazón
 
 const Footer = () => {
   const [showPattern, setShowPattern] = useState(false);
